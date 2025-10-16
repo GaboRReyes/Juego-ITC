@@ -2,7 +2,7 @@
 null,
 {"id":1,"expanded":true,"name":"MAP001","order":4,"parentId":0,"scrollX":459,"scrollY":312.5},
 {"id":2,"expanded":true,"name":"Exterior-Campus2","order":1,"parentId":0,"scrollX":786.8571428571428,"scrollY":535.7142857142857},
-{"id":3,"expanded":true,"name":"Pasillo-Idiomas-Estacionamiento","order":2,"parentId":0,"scrollX":451,"scrollY":407.5},
-{"id":4,"expanded":true,"name":"Idiomas","order":3,"parentId":3,"scrollX":459,"scrollY":312.5},
+{"id":3,"expanded":true,"name":"Pasillo-Idiomas-Estacionamiento","order":2,"parentId":0,"scrollX":655.2,"scrollY":382.4},
+{"id":4,"expanded":true,"name":"Idiomas","order":3,"parentId":3,"scrollX":655.2,"scrollY":382.4},
 {"id":5,"expanded":false,"name":"intro","order":5,"parentId":0,"scrollX":655.2,"scrollY":382.4}
 ]
